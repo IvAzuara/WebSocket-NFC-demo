@@ -9,7 +9,7 @@ Demo interactivo de lectura de tags NFC con envío en tiempo real vía WebSocket
 ## 📁 Estructura del proyecto
 
 ```
-WebSocket-demo/
+WebSocket-NFC-demo/
 ├── server.js
 ├── package.json
 └── public/
@@ -27,8 +27,8 @@ WebSocket-demo/
 Requiere **Node.js v18+** — [nodejs.org](https://nodejs.org)
 
 ```bash
-git clone https://github.com/IvAzuara/WebSocket-demo.git
-cd WebSocket-demo
+git clone https://github.com/IvAzuara/WebSocket-NFC-demo.git
+cd WebSocket-NFC-demo
 npm install
 npm start
 ```
